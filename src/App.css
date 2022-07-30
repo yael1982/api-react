@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background-image: url(../src/img/cesped-artificial.jpg);
+    
+  
+}
+
+h1{
+  text-align: center;
+  padding: 50px;
+  font-size: 60px;
+  font-family: 'Cabin Sketch', cursive;
+  font-weight: bolder;
+}
+
+
+.row{
+  width: 80%;
+  
+}
+
+.mb-2{
+  color: gray;
+
+}
+
+.btn{
+  width: 80%;
+}

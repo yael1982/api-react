@@ -1,0 +1,22 @@
+.label{
+    
+    padding: 20px;
+    font-size: 50px;
+    color: black;
+    font-family: 'Cabin Sketch', cursive;
+    /*font-family: 'Kanit';*/
+    font-weight: bolder;
+}
+
+.field{
+    width: 400px;
+    height: 30px;
+    align-items: center;
+}
+
+.button{
+    
+    color: #ffb74d;
+    width: 300px;
+    
+}
